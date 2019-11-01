@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GoodstoreApplication {
+public class GoodStoreApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GoodstoreApplication.class, args);
+        SpringApplication.run(GoodStoreApplication.class, args);
     }
 
 }

@@ -1,0 +1,14 @@
+
+
+body{
+    color: teal;
+    font-family: "Arial Black";
+    font-size: 100%;
+    position: center;
+}
+firstLetter{
+    color: brown;
+    font-size: 200%;
+    position: relative;
+    top:5px;
+}
